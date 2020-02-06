@@ -1,1 +1,1 @@
-自定义Mybatis框架，以熟悉Mybatis源码
+自定义Mybatis框架，熟悉Mybatis源码
